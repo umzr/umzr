@@ -9,7 +9,11 @@ About Me:
 - ![](https://cdn.lihkg.com/assets/faces/tiger/like2.gif) NFT for Fun: [Opensea](https://opensea.io/collection/enginedogs100days) Put address here if you want. (Free)
 
 
-  buy me some coffee: bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd (native segwit)
+How to support me for this project?  
+buy me some coffee:  
+    (BTC native segwit)  
+     - `bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd` 
+
 
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=umzr&show_icons=true">
