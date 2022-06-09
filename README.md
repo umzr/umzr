@@ -13,7 +13,8 @@ How to support me for this project?
 buy me some coffee:  
     (BTC native segwit)  
      - `bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd` 
-
+    (ERC20, BEP20)  
+    0x7236f9becB9509e403a6736094B401eb37e15e57  
 
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=umzr&show_icons=true">
