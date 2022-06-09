@@ -1,4 +1,4 @@
-### Hi there ![](https://cdn.lihkg.com/assets/faces/dog/bye.gif)![](https://cdn.lihkg.com/assets/faces/pig/bye.gif)![](https://cdn.lihkg.com/assets/faces/mouse/bye.gif)![](https://cdn.lihkg.com/assets/faces/cat/bye.gif)![](https://cdn.lihkg.com/assets/faces/cow/bye.gif)![](https://cdn.lihkg.com/assets/faces/tiger/bye.gif)
+### Hi there ![](https://cdn.lihkg.com/assets/faces/dog/bye.gif)![](https://cdn.lihkg.com/assets/faces/pig/bye.gif)![](https://cdn.lihkg.com/assets/faces/mouse/bye.gif)![](https://cdn.lihkg.com/assets/faces/cat/bye.gif)![](https://cdn.lihkg.com/assets/faces/cow/bye.gif)![](https://cdn.lihkg.com/assets/faces/tiger/bye.gif)![](https://cdn.lihkg.com/assets/faces/husky/bye.gif) 
 
 Mini-Project:
 - ![](https://cdn.lihkg.com/assets/faces/dog/phone.gif) [Telegram Gmail Bot (Google Script Version)](https://github.com/umzr/Telegram-Gmail-Bot-Google-Script-Version-)
