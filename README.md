@@ -6,15 +6,16 @@ Mini-Project:
 
 About Me:
 - ![](https://cdn.lihkg.com/assets/faces/dog/math.gif)   BSc. Computer Science from Chinese University of Hong Kong
-- ![](https://cdn.lihkg.com/assets/faces/tiger/like2.gif) NFT for Fun: [Opensea](https://opensea.io/collection/enginedogs100days) Put address here if you want. (Free)
+- ![](https://cdn.lihkg.com/assets/faces/tiger/like2.gif) NFT for Fun: [Opensea](https://opensea.io/collection/enginedogs100days)   
+Put address here if you want. (Free)
 
 
-How to support me for this project?  
-buy me some coffee:  
-    (BTC native segwit)  
-     - `bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd`  
-    (ERC20, BEP20)  
-    0x7236f9becB9509e403a6736094B401eb37e15e57  
+How to support my project?  
+- ![](https://cdn.lihkg.com/assets/faces/cow/grab_connect.gif)  buy me some coffee:  
+(BTC native segwit)  
+        - `bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd`  
+        (ERC20, BEP20)  
+        - `0x7236f9becB9509e403a6736094B401eb37e15e57`
 
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=umzr&show_icons=true">
