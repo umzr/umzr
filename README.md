@@ -30,8 +30,8 @@ About Me:
 |  About Me:    |         |
 | :---        |         :---: |
 |![]() | BSc. Computer Science from Chinese University of Hong Kong|
-|![]() NFT for Fun:|  [Opensea -- ENGINE DOG'S 100 DAY](https://opensea.io/collection/enginedogs100days) Put address here if you want. (Free) or Just right click and save pictures. |
-
+<!-- |![]() NFT for Fun:|  [Opensea -- ENGINE DOG'S 100 DAY](https://opensea.io/collection/enginedogs100days) Put address here if you want. (Free) or Just right click and save pictures. |
+ -->
 
 
 
@@ -40,13 +40,13 @@ About Me:
 Put address here if you want. (Free) or Just right click and save pictures. -->
 
 <!-- https://cdn.lihkg.com/assets/faces/cow/grab_connect.gif -->
-
+<!-- 
 How to support my project?  
 - ![]()  buy me some coffee:  
     |    Network   |     address    |
     | :---        |         :---: |
     | BTC native segwit      | `bc1qyjzc4slfzm5fwlacezqypkkaa04p3fe8j8wxgd`     
-    | ERC20, BEP20   | `0x7236f9becB9509e403a6736094B401eb37e15e57`        |
+    | ERC20, BEP20   | `0x7236f9becB9509e403a6736094B401eb37e15e57`        | -->
 
 <a href="#">
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=umzr&show_icons=true">
