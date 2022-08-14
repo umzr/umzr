@@ -15,6 +15,7 @@ Project:
   |![]()  |  [Wordle War](https://github.com/DoubleSpicy/wordle_war-) |
 | ![]()  | [Telegram Tradingview Gmail Bot (Python Version)](https://github.com/umzr/Telegram-Tradingview-Gmail-Bot--Google-Script-Version-)  |
 |![]() | [富途指標集合 FUTU Indicators Library](https://github.com/umzr/FUTU-Indicators-Library)|
+|![]() | [中大reg科Bot(python autoclicker)](https://github.com/umzr/CUHK-REG-4-AUTO-Clicker)|
 
 <!-- - ![](https://cdn.lihkg.com/assets/faces/dog/phone.gif) $~~~~~~~$ [Telegram Tradingview Gmail Bot (Google Script Version)](https://github.com/umzr/Telegram-Gmail-Bot-Google-Script-Version-)
 - ![](https://cdn.lihkg.com/assets/faces/dog/itdog4.gif)  $~$  [Wordle War](https://github.com/DoubleSpicy/wordle_war-)
