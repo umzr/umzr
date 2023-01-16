@@ -17,6 +17,7 @@ Project:
 |![]() | [富途指標集合 FUTU Indicators Library](https://github.com/umzr/FUTU-Indicators-Library)|
 |![]() | [中大reg科Bot(python autoclicker)](https://github.com/umzr/CUHK-REG-4-AUTO-Clicker)|
 |![]() | [中大reg科Bot(Tampermonkey autoclicker)](https://github.com/umzr/CUHK-CUSIS-AUTO-Reg)|
+|      | [urbtix-autoClicker](https://github.com/umzr/urbtix-autoClicker) |
 
 
 
